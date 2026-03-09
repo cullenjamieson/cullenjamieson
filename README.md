@@ -14,26 +14,6 @@ My goal is to work on ambitious technical problems where software and hardware c
 
 ---
 
-## Education
-
-### University of British Columbia
-
-**Bachelor of Applied Science in Integrated Engineering**
-
-My degree emphasized interdisciplinary engineering across software, hardware, and systems design. Over the course of my studies, I developed a strong practical interest in:
-
-* robotics and automation
-* computer vision
-* embedded control systems
-* system integration
-* technical prototyping and product-oriented engineering
-
-### International Exchange @ Technical University of Denmark (DTU)
-
-Completed an academic exchange with coursework oriented toward **deep learning** and **computer vision**, with exposure to advanced machine learning concepts and research-style technical work.
-
----
-
 ## Experience Highlights
 
 ### Machine Learning Intern — Mercedes-Benz AG
