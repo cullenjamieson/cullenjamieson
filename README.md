@@ -28,8 +28,6 @@ Worked on machine learning and data-driven tooling for quality-oriented workflow
 * designing data visualizations to communicate insights clearly
 * contributing to domain-specific translation and analytics work
 
-This experience strengthened my interest in applied ML systems that solve real operational problems.
-
 ---
 
 ## Research and Technical Interests
